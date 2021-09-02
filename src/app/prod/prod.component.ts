@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-
+//dd
 @Component({
   selector: 'app-prod',
   templateUrl: './prod.component.html',
