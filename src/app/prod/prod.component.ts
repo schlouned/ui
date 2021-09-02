@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-//essai sprint 1
+//essai master
 @Component({
   selector: 'app-prod',
   templateUrl: './prod.component.html',
