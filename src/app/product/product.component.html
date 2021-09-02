@@ -1,0 +1,11 @@
+<ul class="list-group">
+<app-prod *ngFor="let product of products"
+          [nom]="product.nom"
+          [id]="product.id"
+          [prix]="product.prix"
+          [prixachat]="product.prixachat"
+          >
+
+</app-prod>
+  <app-edit-product></app-edit-product>
+</ul>
